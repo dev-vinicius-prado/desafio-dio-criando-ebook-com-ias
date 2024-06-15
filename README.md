@@ -19,15 +19,15 @@ Copilot:
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Imagem de capa | imagine o canteiro de obras em meio a uma área verde, com árvores que proporcionam sombra. O trator, com suas peças de Lego coloridas, movimenta-se com cuidado pelo terreno. O guindaste, imponente, ergue uma peça maior, simbolizando o robusto Spring Framework. E no centro da construção, o letreiro exibe com orgulho a frase: “Spring Framework: Construindo Aplicações com a Simplicidade de um Lego”.|
 
-Features:
+## Features:
 1. Conteúdo gerado via ChatGPT e editado por humano
 1. Imagens geradas via Copilot
 1. Trechos de código em imagem gerado via Carbon
 
-Materiais:
+## Materiais:
 1. As imagens geradas estão no diretório: 'assets'.
 1. O e-book gerado está no diretório: 'output'
 
-Instruções de uso:
+## Instruções de uso:
 Se inspire com os prompts acima e deixa sua imaginação fluir para gerar seu próprio material base e utilize uma ferramenta de 
 edição de documentos como Canva ou power point para criar seu design e distruibuir seu conhecimento.
