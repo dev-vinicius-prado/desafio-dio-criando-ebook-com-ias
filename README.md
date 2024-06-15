@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo explorar I.A's para agilizar a criação ebooks.
 
+[Leia aqui](./output/Spring%20em%20blocos.pdf)
+
 ## Tecnologias utilizadas no projeto
 1. [CHATGPT](https://chatgpt.com/)
 1. [Copilot](https://copilot.microsoft.com/)
